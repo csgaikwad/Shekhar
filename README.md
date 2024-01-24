@@ -32,13 +32,13 @@
 </div>
 <hr>
 <div align="center">
-<h3>😊 Feel free to reach out if you want to collaborate on projects, share knowledge, or just chat about tech! 😊</h3>
+<h4>😊 Feel free to reach out if you want to collaborate on projects, share knowledge, or just chat about tech! 😊</h3>
 </div><hr>
 <div align="center">
 
 ## 📬 Contact
 
-You can reach me at <br> email: [shekhar.email.123@gmail.com](mailto:shekhar.email.123@gmail.com).
+You can reach me at <br> Email: [shekhar.email.123@gmail.com](mailto:shekhar.email.123@gmail.com).
 ___
 
 <h3 >Languages and Tools:</h3>
