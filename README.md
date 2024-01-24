@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi there! 👋 I'm Shekhar
+# Hi there! 👋
+# I'm Shekhar
 
 <img src="https://i0.wp.com/abigailstevens.com/wp-content/uploads/2021/07/BH_AccretionDisk_Sim_Banner_Stationary.gif?resize=1042%2C320&ssl=1" alt="Shekhar's Avatar" height ="150"  >
 
