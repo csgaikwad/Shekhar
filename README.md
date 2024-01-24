@@ -1,8 +1,3 @@
-<p align="center">
- #  👋😇 Hi I am Shekhar 
-## Its a pleasure to meet you!!!
-</p>
+ # <p align="center">  👋😇 Hi I am Shekhar  </p>
 
-<p align="center">
-  
-</p>
+## <p align="center"> Its a pleasure to meet you!!! 😄 </p>
