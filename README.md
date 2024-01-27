@@ -38,7 +38,7 @@
 
 ## 📬 Contact
 
-You can reach me at <br> Email: [MyEmail](mailto:shekhar.email.123@gmail.com).
+You can reach me at <br> Email: [Shekhar's_Email](mailto:shekhar.email.123@gmail.com).
 ___
 
 <h3 >Languages and Tools:</h3>
