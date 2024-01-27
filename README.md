@@ -26,8 +26,9 @@
 
 ## <div align="center">🤝 Let's Connect 🤝
 <div align="center">
-<a  href="https://www.linkedin.com/in/csgaikwad/" target="blank"><img  src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="contact-shekhar" height="40" /></a>
-<a href="https://twitter.com/SSG_tweet" target="blank"><img  src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="contact-shekhar" height="40" width="40" /></a>
+<a  href="https://www.linkedin.com/in/csgaikwad/" target="blank"><img align="center"  src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="contact-shekhar" height="40" /></a>
+<a href="https://twitter.com/SSG_tweet" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="contact-shekhar" height="40" width="40" /></a>
+ <a href="shekhar.email.123@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" alt="contact-som" height="30" width="40" /></a>
 </div>
 </div>
 <hr>
@@ -35,11 +36,6 @@
 <h4>😊 Feel free to reach out if you want to collaborate on projects, share knowledge, or just chat about tech! 😊</h3>
 </div><hr>
 <div align="center">
-
-## 📬 Contact
-
-You can reach me at <br> Email: [Shekhar's_Email](mailto:shekhar.email.123@gmail.com).
-___
 
 <h3 >Languages and Tools:</h3>
 <p align="left"> 
@@ -59,7 +55,7 @@ ___
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
-
+<hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csgaikwad&show_icons=true&locale=en&layout=compact" alt="csgaikwad" height="165"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csgaikwad&show_icons=true&locale=en" alt="csgaikwad" height="165" /></p>
