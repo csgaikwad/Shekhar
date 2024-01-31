@@ -5,7 +5,7 @@
 <img src="https://i0.wp.com/abigailstevens.com/wp-content/uploads/2021/07/BH_AccretionDisk_Sim_Banner_Stationary.gif?resize=1042%2C320&ssl=1" alt="Shekhar's Avatar" height ="150"  >
 
 
- I'm a passionate full-stack developer with a focus on **MERN** stack. My coding journey began with the amazing [Angela Yu](https://www.appbrewery.co/) and her comprehensive courses. 🚀
+ 🚀 **Hello!** I'm a passionate a Full-stack Web developer with a focus on ***MERN*** stack. I'm passionate about crafting efficient solutions and coding a better Future. Let's code the future together! 💻✨
 </div>
 
 ## 🔧 Tech Stack
@@ -28,7 +28,7 @@
 <div align="center">
 <a  href="https://www.linkedin.com/in/csgaikwad/" target="blank"><img align="center"  src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="contact-shekhar" height="40" /></a>
 <a href="https://twitter.com/SSG_tweet" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="contact-shekhar" height="40" width="40" /></a>
-<a href="mailto:shekhar.email.123@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" alt="contact-som" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shekhar.email.123@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" alt="contact-som" height="30" width="40" /></a>
 </div>
 </div>
 <hr>
