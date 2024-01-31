@@ -5,7 +5,7 @@
 <img src="https://i0.wp.com/abigailstevens.com/wp-content/uploads/2021/07/BH_AccretionDisk_Sim_Banner_Stationary.gif?resize=1042%2C320&ssl=1" alt="Shekhar's Avatar" height ="150"  >
 
 
- 🚀 **Hello!** I'm a passionate a Full-stack Web developer with a focus on ***MERN*** stack. I'm passionate about crafting efficient solutions and coding a better Future. Let's code the Future together! 💻✨
+ 🚀 **Hello!** I'm a passionate a Full-stack Web developer with a focus on ***MERN*** stack.<br> I'm passionate about crafting efficient solutions and coding a better Future. <br> Let's code the Future together! 💻✨
 </div>
 
 ## 🔧 Tech Stack
