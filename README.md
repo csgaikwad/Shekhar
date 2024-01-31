@@ -28,7 +28,7 @@
 <div align="center">
 <a  href="https://www.linkedin.com/in/csgaikwad/" target="blank"><img align="center"  src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="contact-shekhar" height="40" /></a>
 <a href="https://twitter.com/SSG_tweet" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="contact-shekhar" height="40" width="40" /></a>
- <a href="shekhar.email.123@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" alt="contact-som" height="30" width="40" /></a>
+<a href="mailto:shekhar.email.123@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" alt="contact-som" height="30" width="40" /></a>
 </div>
 </div>
 <hr>
