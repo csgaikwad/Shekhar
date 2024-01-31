@@ -26,9 +26,9 @@
 
 ## <div align="center">🤝 Let's Connect 🤝
 <div align="center">
-<a  href="https://www.linkedin.com/in/csgaikwad/" target="_blank" rel="noopener noreferrer"><img align="center"  src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="contact-shekhar" height="40" /></a>
-<a href="https://twitter.com/SSG_tweet" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="contact-shekhar" height="40" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shekhar.email.123@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" alt="contact-som" height="30" width="40" /></a>
+<a  href="https://www.linkedin.com/in/csgaikwad/" ><img align="center"  src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="contact-shekhar" height="40" /></a>
+<a href="https://twitter.com/SSG_tweet" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="contact-shekhar" height="40" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shekhar.email.123@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" alt="contact-som" height="30" width="40" /></a>
 </div>
 </div>
 <hr>
