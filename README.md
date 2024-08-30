@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Shekhar
 
-<img src="https://i0.wp.com/abigailstevens.com/wp-content/uploads/2021/07/BH_AccretionDisk_Sim_Banner_Stationary.gif?resize=1042%2C320&ssl=1" alt="Shekhar's Avatar" height ="150"  >
+<img src="https://i0.wp.com/abigailstevens.com/wp-content/uploads/2021/07/BH_AccretionDisk_Sim_Banner_Stationary.gif?resize=1042%2C320&ssl=1" alt="Shekhar's Avatar" height ="150" width="600" >
 
 
  🚀 **Hello!** I'm a passionate a Full-stack Web developer with a focus on ***MERN*** stack.<br> I'm passionate about crafting efficient solutions and coding a better Future. <br> Let's code the Future together! 💻✨
@@ -50,7 +50,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
